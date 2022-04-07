@@ -1,4 +1,4 @@
-package ru.skillbranch.kaiprepare
+package ru.test.kaiprepare
 
 const val LOGIN = "admin"
 const val PASSWORD = "admin"

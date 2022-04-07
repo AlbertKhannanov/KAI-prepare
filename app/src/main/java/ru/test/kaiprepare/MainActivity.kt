@@ -1,4 +1,4 @@
-package ru.skillbranch.kaiprepare
+package ru.test.kaiprepare
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

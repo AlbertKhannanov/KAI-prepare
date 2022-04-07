@@ -1,4 +1,4 @@
-package ru.skillbranch.kaiprepare
+package ru.test.kaiprepare
 
 import org.junit.Test
 
